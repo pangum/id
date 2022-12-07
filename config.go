@@ -1,4 +1,4 @@
-package id
+package pid
 
 type config struct {
 	// 自增算法配置

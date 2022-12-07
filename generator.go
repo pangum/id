@@ -1,4 +1,4 @@
-package id
+package pid
 
 import (
 	"github.com/goexl/id"
@@ -6,6 +6,7 @@ import (
 	"github.com/pangum/pangu"
 )
 
+// Generator 点位，以直接引入带替间接引入
 type Generator struct {
 	id.Generator
 }

@@ -1,4 +1,4 @@
-package id
+package pid
 
 type autoincrement struct {
 	// 起始值

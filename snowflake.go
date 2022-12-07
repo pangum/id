@@ -1,4 +1,4 @@
-package id
+package pid
 
 type snowflake struct {
 	// 节点

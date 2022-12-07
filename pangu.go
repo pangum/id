@@ -1,4 +1,4 @@
-package id
+package pid
 
 import (
 	"github.com/pangum/pangu"
