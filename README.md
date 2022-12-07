@@ -1,4 +1,4 @@
-# 项目
+# id
 [![编译状态](https://github.ruijc.com:20443/api/badges/pangum/id/status.svg)](https://github.ruijc.com:20443/pangum/id)
 [![Golang质量](https://goreportcard.com/badge/github.com/pangum/id)](https://goreportcard.com/report/github.com/pangum/id)
 ![版本](https://img.shields.io/github/go-mod/go-version/pangum/id)

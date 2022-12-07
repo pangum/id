@@ -1,9 +1,9 @@
-module github.com/pangum/id
+module github.com/pangum/pid
 
 go 1.19
 
 require (
-	github.com/goexl/id v0.0.1
+	github.com/goexl/id v0.0.2
 	github.com/pangum/logging v0.1.9
 	github.com/pangum/pangu v0.3.0
 )
