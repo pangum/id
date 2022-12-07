@@ -1,11 +1,9 @@
-package starter
+package id
 
 import (
 	"github.com/pangum/pangu"
 )
 
 func init() {
-	pangu.New().Dependencies(
-		newAgent,
-	)
+	pangu.New().Dependency(newGenerator)
 }
