@@ -1,5 +1,5 @@
 package pid
 
-type panguConfig struct {
+type wrapper struct {
 	Id *config
 }
