@@ -1,4 +1,4 @@
-package pid
+package id
 
 import (
 	"github.com/pangum/id/internal/plugin"
